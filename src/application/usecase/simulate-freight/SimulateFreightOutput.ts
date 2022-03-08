@@ -1,4 +1,4 @@
-export default class PlaceOrderOutput {
+export default class SimulateFreightOutput {
 
 	constructor (readonly total: number) {
 	}
